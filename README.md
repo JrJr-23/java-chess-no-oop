@@ -4,3 +4,7 @@ Built a complete chess game in Java without using object-oriented programming. T
 
 En passant was thought of, castling, discovered checks and more.
 Only feature that was not implemented was checkmate- when a king is in checkmate, the board is frozen.
+
+1. Open the project in Eclipse or any Java IDE
+2. Compile and run the `main` class inside `/src`
+3. Follow terminal prompts to play
