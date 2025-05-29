@@ -8,3 +8,5 @@ Only feature that was not implemented was checkmate- when a king is in checkmate
 1. Open the project in Eclipse or any Java IDE
 2. Compile and run the `main` class inside `/src`
 3. Follow terminal prompts to play
+
+My code to date is much, much, much cleaner than this. Classes could have been used more effictively to clean up the code. Again this is a brute-force approach which reflecting on I could clean up considerably.
